@@ -6,7 +6,7 @@ permalink: /about/
 
 Le but de ce blog est de transmettre l'apprentissage ou la découverte de la programmation informatique à tout ceux qui en ont un besoin professionnel.
 
-Je suis développeur mobile (& web) depuis quelques années et j'essaie de transmettre ma passion et mon savoir à travers ce blog. Au fur à mesures de mes rencontres professionnelles j'ai remarqué que beaucoup d'entrepreneurs ou de créateurs de startups ne connaissent rien à la programmation. Et pourtant ils ont tout à gagner en sachant comment ça fonctionne. Si demain leurs sites ne fonctionne plus c'est parce qu'ils ne savent pas ce qu'il faut prévoir. Cela peut être la montée en charge imprévue ou alors le recrutement des profils techniques...
+Je suis développeur depuis quelques années et j'essaie de transmettre ma passion et mon savoir faire à travers ce blog. Au fur à mesures de mes rencontres professionnelles j'ai remarqué que beaucoup d'entrepreneurs ou de créateurs de startups ne connaissent rien à la programmation. Et pourtant ils ont tout à gagner en sachant comment ça fonctionne. Le fait de savoir coder ou au moins de comprendre le fonctionnement permet de prévoir les problèmes futurs et de les corriger plus facilement.
 
 Les opinions exprimées ici sont uniquement les miennes.
 
@@ -17,6 +17,6 @@ Vous pouvez retrouver le code source intégral de ce blog sur [Github](https://g
 
 ### Copyright & License
 
-BoostrapYourCodingSkills is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
+bootstrapyourcodingskills.github.io is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
 
 
