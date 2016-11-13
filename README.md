@@ -2,7 +2,7 @@
 
 Le but de ce blog (powered by Jekyll) est de transmettre l'apprentissage de la programmation informatique à tout ceux qui en ont un besoin professionnel.
 
-Je suis développeur mobile & web depuis quelques années et j'essaie de transmettre mon savoir à travers ce blog. Tout ce que j'écris ici est une opinion personnelle du métier ou de la façon de l'aborder.
+Les opinions exprimées ici sont uniquement les miennes.
 
 ### Code source
 
@@ -11,4 +11,4 @@ Vous pouvez retrouver le code source intégral de ce blog sur [Github](https://g
 
 ### Copyright & License
 
-BoostrapYourCodingSkills is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
+bootstrapyourcodingskills.github.io is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
