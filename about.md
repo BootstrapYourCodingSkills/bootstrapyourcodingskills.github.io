@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is my attempt at porting the Roon theme over to Jekyll. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Le but de ce blog est de transmettre l'apprentissage ou la découverte de la programmation informatique à tout ceux qui en ont un besoin professionnel.
 
-You can find the official Roon theme (for Ghost) at: [github.com/TryGhost/Roon/](https://github.com/TryGhost/Roon/)
+Je suis développeur mobile (& web) depuis quelques années et j'essaie de transmettre ma passion et mon savoir à travers ce blog. Au fur à mesures de mes rencontres professionnelles j'ai remarqué que beaucoup d'entrepreneurs ou de créateurs de startups ne connaissent rien à la programmation. Et pourtant ils ont tout à gagner en sachant comment ça fonctionne. Si demain leurs sites ne fonctionne plus c'est parce qu'ils ne savent pas ce qu'il faut prévoir. Cela peut être la montée en charge imprévue ou alors le recrutement des profils techniques...
 
-You can find the source code my Jekyll version of Roon: [github.com/vormwald/joon](https://github.com/vormwald/joon)
+Les opinions exprimées ici sont uniquement les miennes.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Code source
 
-Enjoy!
+J'utilise Jekyll qui est un générateur de site pour ce blog.
+Vous pouvez retrouver le code source intégral de ce blog sur [Github](https://github.com/BootstrapYourCodingSkills/bootstrapyourcodingskills.github.io)
+
+### Copyright & License
+
+BoostrapYourCodingSkills is under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
+
+
