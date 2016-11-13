@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "10 raisons pour apprendre à coder son site internet"
+title:  "10 raisons pour apprendre à coder"
 date:   2016-11-13 13:13:14 +0100
 image: code.jpg
+comments: true
 video: false
 ---
 
-Quand on veut créer son site internet, plusieurs choix s'offre à nous. Pour un site "vitrine", c'est à dire une présentation de sa société, d'un produit ou d'un service, on peut utiliser ce qu'on appelle un CMS. C'est à dire un produit qui existe déjà, qu'on peut paramétrer pour qu'il corresponde à ce qu'on souhaite: par exemple WordPress, Drupal, Shopify, etc... C'est la solution la plus simple, la moins couteuse mais qui est assez limité. On peut aussi faire appel à un prestataire externe pour créer le site de son choix ou paramétrer le CMS de son choix avec ses couleurs et des fonctionnalités supplémentaires. Sinon on peut le faire soi-même, ça demande un peu plus d'efforts, surtout quand on n'y connait rien mais ça vaut le coup. Voici pourquoi:
+Quand on veut créer son site internet, plusieurs choix s'offre à nous. Pour un site "vitrine", c'est à dire une présentation de sa société, d'un produit ou d'un service, on peut utiliser un CMS. C'est un outil pret à l'emploi qu'on peut paramétrer pour qu'il corresponde à ce qu'on souhaite. On peut citer par exemple WordPress, Drupal, Shopify, etc... C'est la solution la plus simple, la moins couteuse mais aussi la plus limité. On peut aussi faire appel à un prestataire externe pour créer le site ou modifier le CMS en profondeur. Sinon on peut le faire soi-même, ça demande un peu plus d'efforts, surtout quand on n'y connait rien mais ça vaut le coup. Voici pourquoi :
 
 * * *
 
@@ -16,17 +17,17 @@ Quand on veut créer son site internet, plusieurs choix s'offre à nous. Pour un
 
 2. Pour comprendre comment ça marche
 
-   Oui, c'est peut être la raison la plus simple mais apprendre à coder votre propre site vous apprends énormément de chose. Evidemment, cela facilitera la maintenance pour les prochaines versions ou pour corriger les bugs. Mais au-delà de cet aspect, Steve Jobs disait qu'il était important d'apprendre à coder parce que cela apprend comment penser:
+   Oui, c'est peut être la raison la plus simple mais apprendre à coder votre propre site vous apprends énormément de chose. Evidemment, cela facilitera la maintenance pour les prochaines versions ou pour corriger les bugs. L'autre avantage est que pouvez créer exactement ce que vous souhaite. Mais au-delà de cet aspect, Steve Jobs disait qu'il était important d'apprendre à coder parce que cela apprend comment penser:
 
    > Everybody in this country should learn to program a computer, because it teaches you how to think
 
    Et je pense que c'est vrai. Créer un programme vous demande de définir clairement le besoin, de l'analyser et de le décomposer. Cela demande également de comprendre l'ensemble du problème et des solutions possible. Cette approche est applicable dans d'autres domaines, par exemple les sciences, l'ingénieurie ou les mathématiques...
    
-   Une fois qu'on a commancé, l'informatique évolue tellement vite que la soif d'apprendre ne s'arrête jamais.
+   Une fois qu'on a commencé, l'informatique évolue tellement vite que l'apprentissage ne s'arrête jamais.
 
 3. Communiquer
 
-   L'un des avantages d'apprendre à programmer c'est que cela facilite la communication avec les développeurs. Pour chaque métier, il y'a des conventions propres, c'est d'autant plus vrais pour les développeurs. Cette connaisssance vous permet de mieux les comprendre et de s'intéresser réellement à leurs métiers. Et peut être que cela donnera ou renforcera la confiance entre vous et qu'ils s'intéressont également au votre. Cela peut également faciliter les estimations des tâches. Oui les développeurs sont (trop) optimistes sur le coût d'une tâche et vous comprendrez pourquoi.
+   L'un des avantages d'apprendre à programmer c'est que cela facilite la communication avec les développeurs. Pour chaque métier, il y'a des conventions propres, c'est d'autant plus vrais celle-ci. Cette connaisssance vous permet de mieux les comprendre et de s'intéresser réellement à leurs métiers. Et peut être que cela donnera ou renforcera la confiance entre vous et qu'ils s'intéressont également à votre métier. Cela peut également faciliter les estimations des tâches. Oui les développeurs sont (trop) optimistes sur le coût d'une tâche et vous comprendrez pourquoi.
    
 4. Recruter
 
