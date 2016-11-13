@@ -1,15 +1,12 @@
 # Site settings
-title: "Joon: Roon for Jekyll"
-logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
-email: your-email@domain.com
-description: > # this means to ignore newlines until "url:"
-  Roon was an excellent service, with a beautiful understated design. After
-  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
-  open sourced.<br> This is my Jekyll port of the Roon theme.
+title: "Apprenez à coder vous mêmes"
+logo: s-logo-a.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: erwan@bootstrapyourcodingskills.com
+description: "Apprenez à coder vous mêmes pour créer votre propore site web ou pour développez vos activités ou pour mieux communiquer avec vos développeurs."
 url: "" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  BootstrapYourCodingSkills
 
 permalink: pretty
 paginate: 5
