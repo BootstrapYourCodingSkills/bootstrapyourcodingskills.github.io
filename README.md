@@ -1,6 +1,6 @@
 # Blog: Apprendre à coder
 
-Le but de ce blog (powered by Jekyll) est de transmettre l'apprentissage de la programmation informatique à tout ceux qui en ont un besoin professionnel.
+Le but de ce blog est de transmettre l'apprentissage de la programmation informatique à tout ceux qui en ont un besoin professionnel.
 
 Les opinions exprimées ici sont uniquement les miennes.
 
