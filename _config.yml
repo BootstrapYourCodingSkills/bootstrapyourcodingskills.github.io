@@ -5,7 +5,7 @@ email: erwan@bootstrapyourcodingskills.com
 description: "Le but de ce blog est de transmettre l'apprentissage de la programmation informatique à tout ceux qui en ont un besoin professionnel."
 url: "" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: 
+twitter_username: BootstrapCoding
 github_username:  BootstrapYourCodingSkills
 
 permalink: pretty
