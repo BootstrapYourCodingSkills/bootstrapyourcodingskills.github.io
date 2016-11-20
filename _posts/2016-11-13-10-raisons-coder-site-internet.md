@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 raisons pour apprendre à coder son site internet"
+title:  "10 raisons pour apprendre à coder/programmer"
 date:   2016-11-13 13:13:14 +0100
 image: code.jpg
 comments: true
