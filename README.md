@@ -1,13 +1,11 @@
 # Blog: Apprendre à coder
 
-Le but de ce blog est de transmettre l'apprentissage de la programmation informatique à tout ceux qui en ont un besoin professionnel.
+Apprendre la programmation informatique à tout ceux qui ont envie d'apprendre.
 
-Les opinions exprimées ici sont uniquement les miennes.
 
 ### Code source
 
-J'utilise Jekyll qui est un générateur de site pour ce blog.
-Vous pouvez retrouver le code source intégral de ce blog sur [Github](https://github.com/BootstrapYourCodingSkills/bootstrapyourcodingskills.github.io)
+Powered by Jekyll on [GitHub](https://github.com/BootstrapYourCodingSkills/bootstrapyourcodingskills.github.io)
 
 ### Copyright & License
 
