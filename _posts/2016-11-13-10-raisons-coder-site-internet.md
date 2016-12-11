@@ -13,7 +13,7 @@ Quand on veut créer son site internet, plusieurs choix s'offrent à nous. Le pr
 
 1. Parce que c'est moins cher
 
-   La raison la plus évidente c'est que faire le travail soi-même ne coûte rien, ou presque. Faire créer son site internet peut revenir cher, surtout s'il est un peu complexe. Le prix dépend beaucoup de ce que vous voulez faire, ça peut passer du simple au x10. Si vous le faites vous-même, il faut penser aux noms de domaines, serveurs... mais cela vous reviendra beaucoup moins cher.
+   La raison la plus évidente c'est que faire le travail soi-même ne coûte rien, ou presque. Faire créer son site internet peut revenir cher, surtout s'il est un peu complexe. Le prix dépend beaucoup de ce que vous voulez faire, ça peut passer du simple au x10. Si vous le faites vous-même, il faut penser aux noms de domaines, serveurs... mais cela vous reviendra beaucoup moins cher.	
 
 2. Pour comprendre comment ça marche
 
