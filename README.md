@@ -1,7 +1,8 @@
 # Blog: Apprendre à coder
 
-Apprendre la programmation informatique à tout ceux qui ont envie d'apprendre.
+Partager ma connaissance de la programmation informatique à tout ceux qui ont envie d'apprendre.
 
+[bootstrapyourcodingskills](http://blog.bootstrapyourcodingskills.com)
 
 ### Code source
 
