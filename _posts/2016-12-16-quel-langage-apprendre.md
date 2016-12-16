@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Par quel langage commencer la programmation ?"
-date:   2016-11-13 13:13:14 +0100
+date:   2016-12-16 13:13:14 +0100
 image: where-to-start.jpg
 comments: true
 video: false
