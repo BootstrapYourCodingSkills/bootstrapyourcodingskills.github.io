@@ -42,7 +42,7 @@ Le Javascript est un langage informatique qui vous permet de rendre les pages we
 
 #### Serveur
 
-Maintenant que vous avez créé votre partie visible de votre Internet, vous aurez probablement besoin d'enregistrer les utilisateurs, d'envoyer des mails, de gérer l'administration... C'est ici qu'intervient le serveur web.
+Maintenant que vous avez créé la partie visible de votre Internet, vous aurez probablement besoin d'enregistrer les utilisateurs, d'envoyer des mails, de gérer l'administration... C'est ici qu'intervient le serveur web.
 
 Concernant les langages utilisés sur un serveur, le choix est beaucoup plus vaste. Seuls les plus connus / les plus utilisés dans le monde du web sont listés ici. Il en existe beaucoup d'autres.
 
@@ -61,13 +61,13 @@ Néanmoins, ce langage assez simple à première vue, peut vite devenir une sour
 
 Le langage Ruby s'est trouvé un super  environnement web avec [Ruby On Rails](http://rubyonrails.org/){:target="_blank"}.
 
-On retrouve une grande communauté de développeurd qui font avancer le langage très rapidement et il est devenu une référence dans les entreprises, surtout dans les startups aux Etats-unis.
+On retrouve une grande communauté de développeurs qui font avancer le langage très rapidement et il est devenu une référence dans les entreprises, surtout dans les startups aux Etats-unis.
 
 Il est assez pratique puisqu'il fournit un cadre de développement accessible et complet.
 
 ##### Javascript
 
-Vous avez appris le Javascript pour créer votre site web ? Si on vous dit que vous pouvez utilisez ces connaissances pour faire votre serveur. C'est également l'un des langages les plus utilisés en ce moment sur des serveurs web.
+Vous avez appris le Javascript pour créer votre site web ? Si on vous dit que vous pouvez utiliser ces connaissances pour faire votre serveur. C'est également l'un des langages les plus utilisés en ce moment sur des serveurs web.
 
 Il existe des outils comme [NodeJS](https://nodejs.org/en/){:target="_blank"} qui permettent d'exécuter du Javascript sur un serveur.
 
@@ -79,7 +79,7 @@ Le Python est également un langage conseillé aux débutants par sa simplicité
 
 ##### Java
 
-Un langage connu et utilisé par beaucoup de grand comptes et de startups permet aussi de faire des sites web avec [JEE](https://fr.wikipedia.org/wiki/Java_EE){:target="_blank"}.
+Un langage connu et utilisé par beaucoup de grands comptes et de startups permet aussi de faire des sites web avec [JEE](https://fr.wikipedia.org/wiki/Java_EE){:target="_blank"}.
 
 Java étant un langage très connu qui existe depuis des dizaines d'années, il y a beaucoup d'outils disponibles pour faciliter et améliorer le développement de son site.
 
@@ -94,7 +94,7 @@ Concernant les applications mobiles, le choix est plus restreint.
 
 #### HTML/Javascript - Android, iOS, Windows
 
-L'une des solutions les plus simple est de créer son application via du HTML/CSS et ensuite de l'embarquer dans un "container". Cela permet de faciliter la création d'une application sur plusieurs technologies (Android, iOS...) et de ne pas avoir besoin de connaissances d'un autre langage.
+L'une des solutions les plus simples est de créer son application via du HTML/CSS et ensuite de l'embarquer dans un "container". Cela permet de faciliter la création d'une application sur plusieurs technologies (Android, iOS...) et de ne pas avoir besoin de connaissances d'un autre langage.
 
 [PhoneGap](http://phonegap.com/){:target="_blank"} ou [Cordova](https://cordova.apache.org/){:target="_blank"} permet de créer ce container pour intégrer votre code dans une application mobile.
 
@@ -120,12 +120,12 @@ A savoir qu'il est possible de créer son application en utilisant HTML et Javas
 
 ### Conclusion
 
-Pour retrouver une description plus détaillée des langages serveur voici un [lien (anglais)](https://martin-thoma.com/languages-for-back-ends/){:target="_blank"} qui peut vous intéresser
+Pour retrouver une description plus détaillée des langages serveur voici un [lien (anglais)](https://martin-thoma.com/languages-for-back-ends/){:target="_blank"} qui peut vous intéresser.
 
-On retrouve certains langages dans le Web et dans les applications mobiles. À vous de voir ce que vous voulez faire aujourd'hui et prévoir vos futurs besoins. Il est peu probable qu'un seul langage soit suffisant si vous voulez vous lancer dans la création de sites Internet et d'applications, à part le C# si vous souhaitez avoir un serveur Windows. Microsoft a créé un environnement pour pouvoir créer des applications Android et iOS à partir de code C#.
+On retrouve certains langages dans le Web et dans les applications mobiles. À vous de voir ce que vous voulez faire aujourd'hui et prévoir vos futurs besoins. Si vous voulez vous lancer dans la création de sites Internet et d'applications mobile (ou non) il est peu probable qu'un seul langage soit suffisant, sauf le C# avec un serveur Windows. Microsoft a créé un environnement pour pouvoir créer des applications Android et iOS à partir de code C#.
 
 Comme vous l'avez peut-être remarqué, comprendre l'anglais facilitera beaucoup l'apprentissage d'un langage informatique et la communication avec la communauté des développeurs. Toutes les documentations et la plupart des forums sont en anglais. Ils existent certaines aides en français mais beaucoup moins fournies.
 
-De même, il peut être intéressant de connaître la ligne de commande, surtout sur Mac (et Linux bien sûr). Sur Windows, la pratique est un peu moins courante mais je conseille quand même de faire l'effort. Cela vous fera gagner un temps précieux et ce, peu importe le langage.
+De même, il peut être intéressant de connaître la ligne de commande, surtout sur Mac (et Linux bien sûr). Sur Windows, la pratique est un peu moins courante mais je conseille de faire aussi cet effort. Cela vous fera gagner un temps précieux et ce, peu importe le langage.
 
 Voici un exemple de tutorial sur mac : [le terminal dans os x](https://openclassrooms.com/courses/domptez-votre-mac-avec-mac-os-x-mavericks/le-terminal-dans-os-x){:target="_blank"}
