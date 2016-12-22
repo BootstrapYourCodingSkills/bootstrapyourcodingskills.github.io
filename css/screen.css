@@ -1145,6 +1145,12 @@ body>footer #user_bio .inner, .post-footer #user_bio .inner {
     line-height: 1.6em;
     color: #a4adb6
 }
+
+body>footer .inner .social-buttons {
+  text-align:center;
+  margin-top:30px;
+}
+
 #blog_badge {
     position: absolute;
     display: block;
