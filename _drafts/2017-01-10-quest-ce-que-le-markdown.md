@@ -7,25 +7,37 @@ comments: true
 video: false
 ---
 
-Si je vous disais qu'il existe une format de fichier qui soit lisible sur n'importe quel système d'exploitation, gratuit, complet et universel ?
+Si je vous disais qu'il existe un format de fichier qui soit lisible sur n'importe quel système d'exploitation, gratuit, complet et universel ?
 
 Je parle bien du Markdown.
 
 * * *
 
-Le markdown est une syntaxe qui est de plus en plus utilisé dans le monde entreprise mais aussi en tant que particulier. 
+Vous créer des fichiers Word pour tous vos documents ? Vous passez plus de temps sur le style que sur le contenu ?
+
+Vous n'avez pas Word parce que c'est cher, gourmand en ressource du PC ou que tout le monde ne peut pas lire le format ? Alors vous faites des documents texte brute ou du RTF ?
+
+Arrêtez tout ! Il existe maintenant une solution pour vos problème.
+
+Markdown est un langage à balise qui permet de créer des fichiers complet puisqu'on peut formatter le texte (titre, gras, italique...), ajouter des images ou des liens hypertext. Le tout avec un format léger, facilement exportable vers PDF ou page HTML et disposant d'outil pour l'utiliser sur toutes les plateformes.
 
 
-# Pourquoi ?
+# Avantages/Inconvénients du Markdown
 
-Markdown est une syntaxe qui permet de créer des fichiers simple comme du texte brute et complet puisqu'on peut formatter le texte avec des titres, du gras... On peut également aller plus loin en rajouter des images ou des liens hypertext.
+## Avantages
 
-- Format universal:
-Il existe des outils sur toutes les plateformes (Windows, Mac, Android, iOS...) pour lire ou écrire du Markdown. La syntaxe est exactement la même.
-- Complet
-Titre, gras, italique, image, lien hypertext... La liste des possibilités est grande.
-
+- Format universel: Il existe des outils sur toutes les plateformes (Windows, Mac, Android, iOS...) pour lire ou écrire du Markdown. La syntaxe est exactement la même.
+- Complet : Titre, gras, italique, image, lien hypertext... On peut faire beaucoup de chose simplement.
 - Meilleur choix entre du texte brut et Word
+- Léger : Il est extrément léger ce qui facilite le partage
+- Génération HTML ou PDF
+
+
+## Inconvénients
+
+- Apprentissage du langage: Markdown est un langage ce qui demande de faire un petit effort pour comprendre le langage
+- Outil: Il vous faut télécharger le bon outil sur votre plateforme pour afficher le rendu final du document
+- Limite: Le style du texte est limité : pas de couleur, l'espace entre les lignes est toujours le même...
 
 # Cas d'utilisation
 
@@ -33,76 +45,73 @@ Titre, gras, italique, image, lien hypertext... La liste des possibilités est g
 
   L'une des raisons pour lequel Markdown est beaucoup utilisé est la création de documentation, technique ou non. Cela permet d'avoir un format simple, presque autant que du texte brut et de pouvoir le mettre en forme très facilement.
 
-
 2. Ecriture
  
   De plus en plus de personnes utilisent le Markdown pour écrire parce qu'on peut rajouter des titres et du formattage (gras, italique...) mais sans ce soucier de la présentation finale comme sur un document Word.  
 
 3. Instructions
    
-   A l'instar de [Github](https://github.com/) beaucoup de site utilise Markdown comme base pour créer des fichiers de documentation ou d'instruction (README, INSTALL) qui per 
+   A l'instar de [Github](https://github.com/){:target="_blank"} beaucoup de site utilise Markdown comme base pour créer des fichiers de documentation ou d'instruction (README, INSTALL) qui per 
 
 
 4. Site statique
 
+   Un site statique est un site dont le contenu ne change pas en fonction de l'utilisateur. C'est à dire qu'il n'y a pas de gestion d'utilisateur, pas d'administration, pas de base de données... Un site extrêmement simple et rapide.
+   
+   Beaucoup de sites statiques utilisent le Markdown pour générer les pages web.
 
 
+# Exemple
 
-En informatique on évoque souvent les termes client/serveur. Pour un site internet, le terme client désigne le navigateur et tout ce qui est exécuté dessus. Quand au serveur, il reçoit des requêtes du client et y répond. 
+Voici un exemple d'un fichier Markdown:
 
-Voici un exemple:
+Le fichier brute:
+```markdown
+# Mon titre
 
-![Client serveur]({{ site.url }}/content/images/client-server.svg)
+## Mon titre 2
 
-Partons d'un exemple, vous souhaitez vous identifier sur un site internet via l'habituel email/mot de passe.
+Ceci est le corps de texte.
 
-- Vous saisissez une URL dans votre navigateur web. Cela va envoyer une requête au serveur web. Celui-ci va traiter la requête et renvoyer la réponse au client, c’est-à-dire le navigateur, sous forme de code HTML.
-- (1) Le navigateur (client) interprète le HTML et affiche donc la page avec les 2 champs de saisie de texte plus un bouton pour se connecter.
-- Quand vous cliquez sur le bouton, le client va envoyer une autre requête au serveur en lui transmettant votre email/mot de passe.
-- (2) Le serveur reçoit ces informations et vérifie que le mot de passe correspond bien à l'adresse email.
-- Le serveur peut par exemple vérifier que ces informations existent dans une base de données. La base de données est une façon très efficace d'enregistrer des données, comme par exemple les utilisateurs d'un site.
-- Il peut également appeler 1 ou plusieurs autres serveurs pour utiliser d'autres services, par exemple envoyer un email, créer un post Facebook ou autre...
-- Une fois que le couple email/mot de passe a été retrouvé dans la bases de données, le serveur renvoit une réponse au client, en disant, "OK laisse le rentrer" et va alors vous rediriger vers la page de votre compte. On revient à l'étape 1.
+Quelques exemples de format du texte: *gras*, _italique_.
+
+Une image:
+![Image bateau]({{ site.url }}/content/images/client-server.svg)
+```
+
+Le rendu:
+
+
+# Mon titre
+
+## Mon titre 2
+
+Ceci est le corps de texte.
+
+Quelques exemples de format du texte: *gras*, _italique_.
+
+Une image:
+![Image bateau]({{ site.url }}/content/images/client-server.svg)
+
 
 ---
 
-Concrètement comment ça fonctionne. Reprenons notre exemple, pas à pas.
+## Extensions
 
-1. **Client** - HTML
-   
-    On utilise le HTML (aka HyperText Markup Language) pour structurer la page. Voici un exemple le plus simple possible d'un formulaire de connexion.
-    
-    Quand on clique sur `Connexion`, on va envoyer une requête au serveur. Dans notre test ci-dessous, il n'y a pas de serveur, donc il ne se passera rien.
- 
-   ![Exemple]({{ site.url }}/content/images/fonctionnement-site-1.png)
-    
-   [Visualiser](http://htmlpreview.github.io/?https://github.com/BootstrapYourCodingSkills/first-website/blob/master/index.html)   
-   [Code source](https://github.com/BootstrapYourCodingSkills/first-website)
-   
-   Pour créer la même page chez vous, c'est très simple. Créer un fichier texte sur votre ordinateur et renommer le en `index.html`. Ouvrez ce fichier dans un éditeur de texte (bloc note, TextEdit...). Ensuite recopiez le code source (cf lien "Code source" ci-dessus et cliquez sur le lien `index.html`). Collez le contenu (le texte qui commence par `<html>` et termine par `</html>`) dans votre fichier. Une fois le copié/collé effectué, ouvrez ce fichier dans votre navigateur. Et voila, votre 1ère page web !
-   
-1. **Client** - HTML + CSS
+Il existe plusieurs (trop) extension de fichier pour le Markdown:
 
-   On peut aussi ajouter du CSS (aka Cascading Style Sheets) pour rajouter un peu de couleur et mettre en forme toute la page. Le CSS est un ensemble de règles qu'on va appliquer sur le HTML pour le modifier. Dans l'exemple ci-dessous, le HTML est très légéremment modifié mais on a surtout rajouté un fichier `style.css` qui va se charger d'appliquer les règles de style.
+- .md
+- .markdown
+- .mdown
+- .mkd
+
+Personnellement j'utilise `.md` parce que je sais qu'il est compris sur toutes les plateformes.
 
 
-   ![Exemple]({{ site.url }}/content/images/fonctionnement-site-2.png)
-   
-   [Visualiser](http://htmlpreview.github.io/?https://github.com/BootstrapYourCodingSkills/second-website/blob/master/index.html)   
-   [Code source](https://github.com/BootstrapYourCodingSkills/second-website)
+# Conclusion
 
-   
-1. **Client** - HTML + CSS + Javascript
+Markdown est un langage à balise qui demande un effort d'apprentissage au début mais devient très vite simple à utiliser. A savoir que cette connaissance n'est pas nécessaire pour lire un fichier, seulement pour l'écrire. 
 
-   En plus de ces 2 technologies on emploie également du Javascript. Il s'agit d'un langage qu'on utilise pour modifier en temps réel la page. Ici on s'en sert pour vérifier que les champs texte ne sont pas vides avant l'envoi au serveur.
-   
-   [Visualiser](http://htmlpreview.github.io/?https://github.com/BootstrapYourCodingSkills/third-website/blob/master/index.html)  
-   [Code source](https://github.com/BootstrapYourCodingSkills/third-website)
+Il existe des outils pour afficher le rendu final d'un fichier markdown. On peut aussi l'exporter en PDF ou en page web très facilement.
 
-
-1. **Serveur web**
-
-   Un serveur web est un programme qui va attendre une requête d'un client et qui va se charger de la traiter et de renvoyer une réponse. On se base sur l'URL pour savoir qui et comment on va gérer la page.  
-   Il existe beaucoup de langages "serveur" qu'on peut utiliser pour cette tâche. Le plus connu / utilisé est probablement le PHP mais on retrouve aussi Java, Ruby, Python, Javascript (qui est aussi un langage client) et beaucoup d'autres...
-
-Si vous souhaitez vous exercer, il existe de nombreux tutorials sur Internet comme [OpenClassrooms](https://openclassrooms.com/) qui propose des cours sur de nombreux sujets lié au développement informatique.
+Vous ne le savez peut-être pas mais ce blog est un site statique et cet article (ainsi que tous les autres) a été généré à partir d'un fichier Markdown.
