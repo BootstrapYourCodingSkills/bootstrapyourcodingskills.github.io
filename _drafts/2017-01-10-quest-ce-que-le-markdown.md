@@ -2,7 +2,7 @@
 layout: post
 title:  "Qu'est-ce que le Markdown ?"
 date:   2017-01-17 13:13:14 +0100
-image: markdown.png
+image: writing.jpg
 comments: true
 video: false
 ---
