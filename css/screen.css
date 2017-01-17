@@ -1,12 +1,12 @@
 /* Link colour */
 a {
-  color: #ff7700;
+  color: #e74c3c;
 }
 
 /* Border at the top of the page */
 body>header,
 body.noimage {
-  border-color: #ff7700;
+  border-color: #e74c3c;
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -102,7 +102,7 @@ body.serif article>menu #btn_comment span {
     color: #b168cd
 }
 .highlight .l {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .n {
     color: #21272d
@@ -171,7 +171,7 @@ body.serif article>menu #btn_comment span {
     color: #46ad55
 }
 .highlight .m {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .s {
     color: #46ad55
@@ -186,7 +186,7 @@ body.serif article>menu #btn_comment span {
     color: #deb328
 }
 .highlight .no {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .nd {
     color: #51bac8
@@ -225,16 +225,16 @@ body.serif article>menu #btn_comment span {
     color: #4d4d4c
 }
 .highlight .mf {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .mh {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .mi {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .mo {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .sb {
     color: #46ad55
@@ -249,13 +249,13 @@ body.serif article>menu #btn_comment span {
     color: #46ad55
 }
 .highlight .se {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .sh {
     color: #46ad55
 }
 .highlight .si {
-    color: #ff7700
+    color: #e74c3c
 }
 .highlight .sx {
     color: #46ad55
@@ -282,7 +282,7 @@ body.serif article>menu #btn_comment span {
     color: #c82829
 }
 .highlight .il {
-    color: #ff7700
+    color: #e74c3c
 }
 html, body {
     height: 100%;
