@@ -7,7 +7,7 @@ comments: true
 video: false
 ---
 
-Vous créez des fichiers Word pour tous vos documents ? Vous passez plus de temps sur le style que sur le contenu ? Vous n'avez pas Word parce que c'est cher, gourmands en ressource ou que tout le monde ne peut pas lire le format ? Alors vous faites des documents en texte brut ou en RTF ?
+Vous créez des fichiers Word pour tous vos documents ? Vous passez plus de temps sur le style que sur le contenu ? Vous n'avez pas Word parce que c'est cher, gourmand en ressources ou que tout le monde ne peut pas lire le format ? Alors vous faites des documents en texte brut ou en RTF ?
 
 Si je vous disais qu'il existe un format de fichier qui soit lisible sur n'importe quel système d'exploitation, gratuit et complet.
 
@@ -15,22 +15,22 @@ Vous l'aurez compris, je parle du Markdown.
 
 * * *
 
-Markdown est une syntaxe, un format de fichier qui permet de créer des fichiers complets d'une manière relativement simple. On peut formater le texte (titre, gras, italique...), ajouter des images ou des liens hypertexte. Le tout avec un format léger, lisible et facilement exportable vers du PDF ou une page HTML.
+Markdown est une syntaxe, un format de fichier qui permet de créer des fichiers complets d'une manière relativement simple. On peut formater le texte (titre, gras, italique...), ajouter des images ou des liens hypertextes. Le tout avec un format léger, lisible. Son principal objectif est d'être partagé et exporté vers du PDF ou une page HTML.
 
 # Encore au début 
 
 Markdown est une technologie assez jeune, il n'existe pas d'outils qui acceptent toutes les syntaxes possibles. La communauté utilise de plus en plus le terme Markdown pour tout ce qui concerne le `text-to-HTML`, ce qui complique les choses pour avoir un outil standard et des spécifications précises.
 
-On étudiera ici seulement la syntaxe "original" du Markdown, celle qui est utilitée sur ce site web.
+On étudiera ici seulement la syntaxe "originale" du Markdown, celle qui est utilitée sur ce site web.
 
 
 # Avantages/Inconvénients du Markdown
 
 ## Avantages
 
-- **Format universel** N'importe quel éditeur de texte peut lire un fichier Markdown. C'est du texte avec une syntaxe particulière. Il existe également des éditeurs Markdown pour afficher le rendu final. On en trouve sur toutes les plateformes (Windows, Mac, Android, iOS...). La syntaxe est la même ou presque, on voit ça dans les inconvénients.
-- **Formattage du texte** Titre, gras, italique, image, lien hypertexte... On peut faire beaucoup de choses simplement.
-- **Léger** Il est extrément léger ce qui facilite le partage.
+- **Format universel** N'importe quel éditeur de texte peut lire un fichier Markdown. C'est du texte avec une syntaxe particulière. Il existe également des éditeurs Markdown pour pré-visualiser le rendu final. On en trouve sur toutes les plateformes (Windows, Mac, Android, iOS...). La syntaxe est la même ou presque, on voit ça dans les inconvénients.
+- **Formatage du texte** Titre, gras, italique, image, lien hypertexte... On peut faire beaucoup de choses simplement.
+- **Léger** Il est extrêmement léger ce qui facilite le partage.
 - **Exportable** On peut facilement générer du HTML ou du PDF à partir d'un fichier Markdown.
 - **Web** C'est une syntaxe très utilisée pour créer des pages web :
    - Plus sécurisé, après tout ce n'est que du texte.
@@ -61,7 +61,7 @@ On étudiera ici seulement la syntaxe "original" du Markdown, celle qui est util
 
    Le Markdown est aussi utilisé pour créer le contenu des sites Internet et de séparer la partie visuelle (HTML/CSS) du texte brut.
    
-   Il existe aussi des sites "statiques" dont le contenu ne change pas en fonction de l'utilisateur. C'est à dire qu'il n'y a pas de gestion d'utilisateur, pas d'administration, pas de base de données... Un site extrêmement simple et rapide. Le coeur de ces sites statiques reposent sur des fichiers comme le Markdown qui composent l'ensemble des pages web.
+   Il existe aussi des sites "statiques" dont le contenu ne change pas en fonction de l'utilisateur. C'est à dire qu'il n'y a pas de gestion d'utilisateur, pas d'administration, pas de base de données... Un site extrêmement simple et rapide. Le coeur de ces sites statiques repose sur des fichiers comme le Markdown qui composent l'ensemble des pages web.
 
    Ce blog est un site statique et cet article (ainsi que tous les autres) a été généré à partir d'un fichier Markdown.
    
@@ -125,7 +125,7 @@ Personnellement j'utilise `.md` parce que je sais qu'il est compris sur toutes l
 
 Markdown est un langage à balise qui demande un effort d'apprentissage au début mais devient très vite simple à utiliser. A savoir que cette connaissance n'est pas nécessaire pour lire un fichier, seulement pour l'écrire. Il existe des outils pour afficher le rendu final d'un fichier Markdown. On peut aussi l'exporter en PDF ou en page web très facilement.
 
-Une fois la syntaxe comprise, vous ne passerez pas des heures à styliser votre document. Vous vous focaliserez sur le contenu et c'est pour ça qu'il est très populaire. On se rend très vite compte qu'il est beaucoup plus simple et rapide d'écrire quand on n'a pas des dizaines de boutons à notre disposition, quand l'outil nous propose seulement une page noir  (ou blanche) pour pouvoir écrire, quand tout se fait au clavier et que les doigts ne touchent plus la souris.
+Une fois la syntaxe comprise, vous ne passerez pas des heures à styliser votre document. Vous vous focaliserez sur le contenu et c'est pour ça qu'il est très populaire. On se rend très vite compte qu'il est beaucoup plus simple et rapide d'écrire quand on n'a pas des dizaines de boutons à notre disposition, quand l'outil nous propose seulement une page noire  (ou blanche) pour pouvoir écrire, quand tout se fait au clavier et que les doigts ne touchent plus la souris.
 
 Il est aussi très simple à utiliser dans un site web ou dans un système d'information. La syntaxe est simple et il est très facile de faire ce qu'on en veut via un programme.
 
