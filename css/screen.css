@@ -1151,6 +1151,11 @@ body>footer .inner .social-buttons {
   margin-top:30px;
 }
 
+body>footer .inner .social-buttons a {
+  margin-right:8px;
+  margin-left:8px;
+}
+
 #blog_badge {
     position: absolute;
     display: block;
