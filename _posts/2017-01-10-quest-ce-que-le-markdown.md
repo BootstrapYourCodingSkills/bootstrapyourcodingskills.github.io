@@ -51,7 +51,7 @@ On étudiera ici seulement la syntaxe "originale" du Markdown, celle qui est uti
 
     A l'instar de [Github](https://github.com/){:target="_blank"}  beaucoup de sites utilisent Markdown comme base pour créer des fichiers de documentation ou d'instruction (README, INSTALL...).
    
-   L'une des raisons pour lequel Markdown est beaucoup utilisé est la création de documentation, technique ou non. Cela permet d'avoir un format simple, presque autant que du texte brut et de pouvoir le mettre en forme très facilement.
+   L'une des raisons pour laquelle Markdown est beaucoup utilisé est la création de documentation, technique ou non. Cela permet d'avoir un format simple, presque autant que du texte brut et de pouvoir le mettre en forme très facilement.
 
 1. Ecriture
  
@@ -74,7 +74,7 @@ Voici un exemple d'un fichier Markdown:
 
 ---
 
-####Le fichier brut
+#### Le fichier brut
 
 ---
 
@@ -91,7 +91,7 @@ Voici un exemple d'un fichier Markdown:
 
 ---
 
-####Le rendu
+#### Le rendu
 ---
 
 # Mon titre
