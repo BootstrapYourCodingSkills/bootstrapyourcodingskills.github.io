@@ -123,9 +123,9 @@ Personnellement j'utilise `.md` parce que je sais qu'il est compris sur toutes l
 
 # Conclusion
 
-Markdown est un langage à balise qui demande un effort d'apprentissage au début mais devient très vite simple à utiliser. A savoir que cette connaissance n'est pas nécessaire pour lire un fichier, seulement pour l'écrire. Il existe des outils pour afficher le rendu final d'un fichier Markdown. On peut aussi l'exporter en PDF ou en page web très facilement.
+Markdown est un langage à balise qui demande un effort d'apprentissage au début mais devient très vite simple à utiliser. A savoir que cette connaissance n'est pas nécessaire pour lire un fichier - puisque la syntaxe est très légère - seulement pour l'écrire. Il existe des éditeurs de textes spécifique Markdown qui permettent de pré-visualiser le rendu en direct. On peut aussi l'exporter en PDF ou en page web très facilement.
 
-Une fois la syntaxe comprise, vous ne passerez pas des heures à styliser votre document. Vous vous focaliserez sur le contenu et c'est pour ça qu'il est très populaire. On se rend très vite compte qu'il est beaucoup plus simple et rapide d'écrire quand on n'a pas des dizaines de boutons à notre disposition, quand l'outil nous propose seulement une page noire  (ou blanche) pour pouvoir écrire, quand tout se fait au clavier et que les doigts ne touchent plus la souris.
+Une fois la syntaxe comprise, vous ne passerez pas des heures à styliser votre document. Vous vous focaliserez sur le contenu et c'est pour ça qu'il est très populaire. On se rend très vite compte qu'il est beaucoup plus simple et rapide d'écrire quand on n'a pas des dizaines de boutons à notre disposition, quand l'outil nous propose seulement une page noire (ou blanche) pour pouvoir écrire et quand tout se fait au clavier.
 
 Il est aussi très simple à utiliser dans un site web ou dans un système d'information. La syntaxe est simple et il est très facile de faire ce qu'on en veut via un programme.
 
