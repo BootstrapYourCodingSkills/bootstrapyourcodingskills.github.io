@@ -1356,6 +1356,18 @@ html[dir=rtl] #blog_badge {
     left: 26px;
     right: inherit
 }
+
+.title-custo p {
+  margin-top: 20px;
+  color :#e74c3c;
+  font-weight: bolder;
+}
+
+/*.title-raw p {
+  color :#e74c3c;
+  font-weight: bolder;
+}*/
+
 body>iframe {
     display: none
 }
