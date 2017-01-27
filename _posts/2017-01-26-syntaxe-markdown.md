@@ -67,7 +67,7 @@ L'espace entre chaque paragraphe est fixe et il n'est pas possible de le changer
 
     ***italique et gras***
 
-On peut utiliser le `_` ou `*` pour formatter du texte. Les 2 signes sont équivalents.
+On peut utiliser le `_` ou `*` pour formater du texte. Les 2 signes sont équivalents.
 
 ![warning]({{ site.url }}/assets/images/warning.png) Markdown étant encore assez jeune, certains éditeurs peuvent ne pas bien interpréter l’un ou l’autre caractère.
 
@@ -207,7 +207,7 @@ Colonne 1 | Colonne 2 | Colonne 3
 Cellule 1-1 | Cellule 2-1 | Cellule 3-1
 1 | 2 | 3
 
-Il est possible d'aligné les caractères `|` et  `- ` pour être plus lisible dans l'édition mais un peu plus contraignant :
+Il est possible d'aligner les caractères `|` et  `- ` pour être plus lisible dans l'édition mais un peu plus contraignant :
 
 Colonne 1   | Colonne 2   | Colonne 3
 ---         | ---         | ---
@@ -225,7 +225,7 @@ Cellule 1-1 | Cellule 2-1 | Cellule 3-1
     Cellule 1-1 | Cellule 2-1 | Cellule 3-1
     1 | 2 | 3
     
-Il est possible d'aligné les caractères `|` et  `- ` pour être plus lisible dans l'édition mais un peu plus contraignant :
+Il est possible d'aligner les caractères `|` et  `- ` pour être plus lisible dans l'édition mais un peu plus contraignant :
 
     Colonne 1   | Colonne 2   | Colonne 3
     ---         | ---         | ---
@@ -241,6 +241,7 @@ Il est possible d'aligné les caractères `|` et  `- ` pour être plus lisible d
 
 ***
 
+Il est possible de mettre en avant du texte pour le démarquer visuellement du texte standard. On utilise souvent cette syntaxe pour du code informatique ou des citations (bloc de citation ou blockquote en anglais).
 
 > Ceci est un blockquote
 
@@ -249,7 +250,7 @@ Il est possible d'aligné les caractères `|` et  `- ` pour être plus lisible d
     Une autre façon de créer un bloc de code est d'ajouter 4 espaces avant.
 
 ```
-Ajout de code brut sur plusieurs lignes. On peut utiliser cette syntaxe pour mettre en avant du contenu mais elle est surtout utilisé est l'ajout d'un bloc de code.
+On peut également ajouter du code brut sur plusieurs lignes et/ou plusieurs paragraphes via 3 ` en début et en fin de bloc. Il est recommandé de les mettre sur les ligne au-dessous et en-dessous du bloc.
 ```
 
 <div class="title-custo">
@@ -261,11 +262,11 @@ Ajout de code brut sur plusieurs lignes. On peut utiliser cette syntaxe pour met
     > Ceci est un blockquote
 
     `Ajout d'un bloc de code brut sur une seule ligne`
-    
+
     Une autre façon de créer un bloc de code est d'ajouter 4 espaces avant.
-    
+
     ```
-    Ajout de code brut sur plusieurs lignes. On peut utiliser cette syntaxe pour mettre en avant du contenu mais elle est surtout utilisé est l'ajout d'un bloc de code.
+    On peut également ajouter du code brut sur plusieurs lignes et/ou plusieurs paragraphes via 3 ` en début et en fin de bloc. Il est recommandé de les mettre sur les ligne au-dessous et en-dessous du bloc.
     ```
 
 ## Règle horizontale
@@ -297,7 +298,7 @@ ___
 
 ## HTML
 
-Il est possible d'ajouter du HTML si le but de l'article est de le transformer en page web. De plus certains éditeurs sont également capable d'afficher du HTML.
+Il est possible d'ajouter du HTML si le but de l'article est de le transformer en page web. De plus, certains éditeurs sont également capable d'afficher du HTML.
 
 <div class="title-custo">
   <p>Rendu</p>
