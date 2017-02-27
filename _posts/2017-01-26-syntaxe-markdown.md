@@ -9,7 +9,7 @@ video: false
 
 Si vous cherchez à comprendre un peu mieux ce qu'est le Markdown, je vous conseille de lire [cet article]({% post_url 2017-01-17-quest-ce-que-le-markdown %}){:target="_blank"}.
 
-Cet article présente la syntaxe pour lire et écrire un fichier Markdown.
+Cette page présente la syntaxe pour lire et écrire un fichier Markdown.
 
 * * *
 
