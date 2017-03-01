@@ -9,7 +9,7 @@ video: false
 
 Un site web statique n'est pas un site immobile, c'est un site dont le contenu ne change pas en fonction de l'utilisateur.
 
-A l'inverse, un site dynamique présente un contenu différent selon l'utilisateur, comme par exemple votre profil Facebook qui n'est accessible que pour vous. Les pages sont alors construites "à la volée" grâce à un langage de programmation qui s'exécute sur un serveur. En informatique, on appelle cette partie le backend. À l'opposé on trouve le frontend qui est la partie visible du site internet.
+A l'inverse, un site dynamique présente un contenu différent selon l'utilisateur, comme par exemple votre profil Facebook qui n'est accessible que par vous. Les pages sont alors construites "à la volée" grâce à un langage de programmation qui s'exécute sur un serveur. En informatique, on appelle cette partie le backend. À l'opposé on trouve le frontend qui est la partie visible du site internet.
 
 La plupart des sites internet sont dynamiques. Quel est alors l'intérêt d'un site statique ? Et dans quel cas est-ce avantageux ?
 
@@ -41,7 +41,7 @@ Un site statique est beaucoup plus rapide qu'un site dynamique, forcément il n'
 
 #### Sécurisé
 
-Un autre point extrêmement important est la gestion liée à la sécurité. Comme on l'a vu plus haut, il n'y a pas de code sur le serveur, donc plus d'erreur humaine soit beaucoup moins de problèmes de sécurité. Il faut savoir que la plupart des failles des sites web sont liés à des erreurs humaines.
+Un autre point extrêmement important est la gestion liée à la sécurité. Comme on l'a vu plus haut, il n'y a pas de code sur le serveur, donc plus d'erreur humaine soit beaucoup moins de problèmes de sécurité. Il faut savoir que la plupart des failles des sites web sont liées à des erreurs humaines.
 
 Les problèmes restants sont liés au serveur sur lequel est hébergé votre site web : système d'exploitation, serveur web... Problèmes qui sont également présents sur des sites dynamiques.
 
@@ -53,7 +53,7 @@ La structure est simple : un dossier pour les articles, un autre pour les brouil
 
 Avec une courbe d'apprentissage à prendre en compte, à voir dans les [inconvénients](#comptences), n'importe qui peut créer et mettre à jour un site statique. Un site statique est généralement créé avec des fichiers statiques, comme le [Markdown]({% post_url 2017-01-17-quest-ce-que-le-markdown %}){:target="_blank"}.
 
-#### Mettre à jour
+#### Mise à jour
 
 La mise à jour se fait très facilement. On le fait soit via une ligne de commande soit via un outil - comme un client FTP - pour transmettre les fichiers qu'on a sur son poste vers le serveur.
 
@@ -95,9 +95,9 @@ Pour préciser la partie précédente, on ne peut pas faire de chose complexe, d
 
 #### Compétences
 
-Pour créer un site statique, il faut apprendre à utiliser un générateur. Il faut donc comprendre la structure des dossiers et la configuration du site ainsi que la façon dont il fonctionne.
+Pour créer un site statique, il faut apprendre à utiliser un générateur. Il faut donc comprendre la structure des dossiers et la configuration du site ainsi que la façon dont le générateur fonctionne.
 
-De plus, la majorité des générateurs utilisent la ligne de commande pour la plupart des tâches comme lancer le serveur. Il faut donc connaître les commandes les plus basiques d'un terminal pour être efficace et comprendre ce que l'on fait.
+De plus, la majorité des générateurs utilise la ligne de commande pour la plupart des tâches (par exemple : lancer le serveur). Il faut donc connaître les commandes les plus basiques d'un terminal pour être efficace et comprendre ce que l'on fait.
 
 Il est également nécessaire de comprendre la syntaxe [Markdown]({% post_url 2017-01-26-syntaxe-markdown %}){:target="_blank"}, ou autre si une syntaxe différente est utilisée, pour modifier les fichiers de contenu du site.
 
@@ -109,10 +109,10 @@ Que ce soit pour créer ou simplement mettre à jour son site, il faut installer
 
 On conseille généralement un site statique pour des sites relativement simples, par exemple des sites de présentations : CV, portfolio, sites vitrines d'entreprise ou de produit, ou également pour de la documentation technique ou non. Peu importe que ce soit un site personnel ou professionnel.
 
-La qualité perçue peut être la même quelle que soit la technologie utilisée.
+La qualité perçue peut être la même que ce soit un site statique ou dynamique : ce sont les mêmes technologies qui peuvent être utilisées.
 
 Les sites statiques font généralement moins de mise à jour que des sites dynamiques sur lesquels la modification est simplifiée via des CMS (exemple : [Wordpress](https://fr.wordpress.com/){:target="_blank"}) pour ajouter ou modifier des articles ou des pages.
 
-Pour finir, un site statique a des limites et des inconvénients qu'il faut connaître mais qu'on peut parfois contourner en utilisant des services externes. On peut donc tout à fait utiliser un site statique pour beaucoup de besoins, bien plus que ceux présentés ci-dessus.
+Pour finir, un site statique a des limites et des inconvénients qu'il faut connaître mais qu'on peut parfois contourner en utilisant des services externes. On peut donc tout à fait utiliser un site statique pour de nombreux besoins, bien plus que ceux présentés ci-dessus.
 
-Dès que c'est possible, je conseille d'utiliser un site statique qui sera plus rapide, simple et sûr.
+Pour finir, je conseille, dans la mesure du possible, d'utiliser un site statique qui sera plus rapide, simple et sûr.
