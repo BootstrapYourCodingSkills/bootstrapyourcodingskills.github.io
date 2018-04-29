@@ -19,6 +19,8 @@ La plupart des sites internet sont dynamiques. Quel est alors l'intérêt d'un s
 
 Pour créer un site statique, on utilise un générateur, par exemple [Jekyll](https://jekyllrb.com/){:target="_blank"} qui est également utilisé sur ce site. Il en existe d'ailleurs [beaucoup d'autres](https://www.staticgen.com/){:target="_blank"}.
 
+On peut aussi utiliser *seulement* du HTML pour construire un site Internet sans passer par un outil tierce. On ne disposera pas des avantages des générateurs (templates, variables...) mais c'est tout à fait possible. Dans notre cas, on expliquera surtout les avantages d'un site statique créé par un générateur.
+
 Un site statique comprend des fichiers avec une syntaxe [Markdown]({% post_url 2017-01-17-quest-ce-que-le-markdown %}){:target="_blank"} (ou similaire) qui compose le contenu de votre site web. Le générateur va transformer les fichiers Markdown en page HTML et les intégrer dans un site web.
 
 L'ensemble sera ensuite hébergé sur un serveur, le plus basique possible. Celui-ci se contente de transmettre les pages aux navigateurs clients. Il n'y a pas de code, pas de base de données, pas de calcul.
